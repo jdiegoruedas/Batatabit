@@ -1,0 +1,26 @@
+header img {
+    width: 500px;
+    height: 100px;
+}
+
+.main-product-detail--header span {
+    width: 170px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: calc(50% - 85px);
+    top: -50px;
+}
+
+.main-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 950px;
+    margin: 0 auto;
+}
+
+.bitcoin-img-container h2 {
+    padding-top: 100px;
+    font-size: 9rem;
+}
+
